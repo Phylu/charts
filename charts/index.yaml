@@ -3,11 +3,11 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.189389407Z"
+    created: "2021-04-07T11:43:07.036494241Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
-    digest: 043dac40f90bbec63be43ea9aadf0f3669ae9bcd5d264562e238387ea532075a
+    digest: ecdc9eb307a7e1feb4a60bc0ef8d6ae21c66a6bf31b9117140f955a8e722c888
     home: https://clickhouse.yandex/
     icon: https://clickhouse.yandex/images/logo.png
     keywords:
@@ -18,11 +18,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-2.0.0.tgz
+    - https://phylu.github.io/charts/clickhouse-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.187948905Z"
+    created: "2021-04-07T11:43:07.034721285Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -37,11 +37,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.5.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.186748804Z"
+    created: "2021-04-07T11:43:07.032912329Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -56,11 +56,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.1.tgz
+    - https://phylu.github.io/charts/clickhouse-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.180776295Z"
+    created: "2021-04-07T11:43:07.031360281Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -75,11 +75,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.179378093Z"
+    created: "2021-04-07T11:43:07.029145312Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -94,11 +94,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.3.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.177724991Z"
+    created: "2021-04-07T11:43:07.027426058Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -113,11 +113,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.2.tgz
+    - https://phylu.github.io/charts/clickhouse-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.176345889Z"
+    created: "2021-04-07T11:43:07.025393995Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -132,11 +132,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.1.tgz
+    - https://phylu.github.io/charts/clickhouse-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.175030387Z"
+    created: "2021-04-07T11:43:07.024125755Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -151,11 +151,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.173567985Z"
+    created: "2021-04-07T11:43:07.022842015Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -170,11 +170,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.1.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.171971582Z"
+    created: "2021-04-07T11:43:07.021479873Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -189,11 +189,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.1.tgz
+    - https://phylu.github.io/charts/clickhouse-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-04-05T06:23:57.17026068Z"
+    created: "2021-04-07T11:43:07.020015127Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -208,12 +208,12 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.0.tgz
+    - https://phylu.github.io/charts/clickhouse-1.0.0.tgz
     version: 1.0.0
   sentry:
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2021-04-05T06:23:57.461444198Z"
+    created: "2021-04-07T11:43:07.345542677Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -241,15 +241,15 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 6.0.5
     description: A Helm chart for Kubernetes
-    digest: 882fcd447e87623e996757980d187bee4841415ba8ff5d0e730df58df30bc069
+    digest: cbf62dffc474b01d7a204269b99f4aad0b3fafb36b36cc571a70b283f55f4d12
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.1.0.tgz
+    - https://phylu.github.io/charts/sentry-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-04-05T06:23:57.436220762Z"
+    created: "2021-04-07T11:43:07.316048457Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -281,11 +281,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.0.0.tgz
+    - https://phylu.github.io/charts/sentry-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-04-05T06:23:58.627080174Z"
+    created: "2021-04-07T11:43:08.628406447Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -317,11 +317,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.2.tgz
+    - https://phylu.github.io/charts/sentry-9.1.2.tgz
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-04-05T06:23:58.606341844Z"
+    created: "2021-04-07T11:43:08.602670047Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -353,11 +353,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.1.tgz
+    - https://phylu.github.io/charts/sentry-9.1.1.tgz
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-04-05T06:23:58.582975811Z"
+    created: "2021-04-07T11:43:08.575502402Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -389,11 +389,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.0.tgz
+    - https://phylu.github.io/charts/sentry-9.1.0.tgz
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-04-05T06:23:58.559753077Z"
+    created: "2021-04-07T11:43:08.548912075Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -425,11 +425,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.2.tgz
+    - https://phylu.github.io/charts/sentry-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-04-05T06:23:58.537378545Z"
+    created: "2021-04-07T11:43:08.521532424Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -461,11 +461,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.1.tgz
+    - https://phylu.github.io/charts/sentry-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-04-05T06:23:58.514709513Z"
+    created: "2021-04-07T11:43:08.493531853Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -497,11 +497,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.0.tgz
+    - https://phylu.github.io/charts/sentry-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-04-05T06:23:58.492608481Z"
+    created: "2021-04-07T11:43:08.466216204Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -533,11 +533,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.3.tgz
+    - https://phylu.github.io/charts/sentry-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-04-05T06:23:58.472126751Z"
+    created: "2021-04-07T11:43:08.441889747Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -569,11 +569,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.2.tgz
+    - https://phylu.github.io/charts/sentry-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-04-05T06:23:58.454333926Z"
+    created: "2021-04-07T11:43:08.41687877Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -605,11 +605,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.1.tgz
+    - https://phylu.github.io/charts/sentry-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-04-05T06:23:58.434767498Z"
+    created: "2021-04-07T11:43:08.391534582Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -641,11 +641,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.0.tgz
+    - https://phylu.github.io/charts/sentry-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.414987069Z"
+    created: "2021-04-07T11:43:08.368150055Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -677,11 +677,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.1.tgz
+    - https://phylu.github.io/charts/sentry-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.396093642Z"
+    created: "2021-04-07T11:43:08.343904301Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -713,11 +713,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.0.tgz
+    - https://phylu.github.io/charts/sentry-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.375608613Z"
+    created: "2021-04-07T11:43:08.318867522Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -749,11 +749,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.1.tgz
+    - https://phylu.github.io/charts/sentry-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.352086579Z"
+    created: "2021-04-07T11:43:08.295991811Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -785,11 +785,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.0.tgz
+    - https://phylu.github.io/charts/sentry-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.33183725Z"
+    created: "2021-04-07T11:43:08.273732317Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -821,11 +821,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.1.tgz
+    - https://phylu.github.io/charts/sentry-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.31080422Z"
+    created: "2021-04-07T11:43:08.251882035Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -857,11 +857,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.0.tgz
+    - https://phylu.github.io/charts/sentry-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.29051069Z"
+    created: "2021-04-07T11:43:08.229362433Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -893,11 +893,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.1.tgz
+    - https://phylu.github.io/charts/sentry-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.26948616Z"
+    created: "2021-04-07T11:43:08.203765635Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -929,11 +929,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.0.tgz
+    - https://phylu.github.io/charts/sentry-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.24860383Z"
+    created: "2021-04-07T11:43:08.181270634Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -965,11 +965,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.1.0.tgz
+    - https://phylu.github.io/charts/sentry-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-04-05T06:23:58.229217302Z"
+    created: "2021-04-07T11:43:08.15901804Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1001,11 +1001,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.0.0.tgz
+    - https://phylu.github.io/charts/sentry-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.209576174Z"
+    created: "2021-04-07T11:43:08.125701401Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1037,11 +1037,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.1.tgz
+    - https://phylu.github.io/charts/sentry-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.189634245Z"
+    created: "2021-04-07T11:43:08.098280046Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1073,11 +1073,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.0.tgz
+    - https://phylu.github.io/charts/sentry-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.169376616Z"
+    created: "2021-04-07T11:43:08.074049591Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1109,11 +1109,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.1.0.tgz
+    - https://phylu.github.io/charts/sentry-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.148666386Z"
+    created: "2021-04-07T11:43:08.052465118Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1145,11 +1145,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.0.0.tgz
+    - https://phylu.github.io/charts/sentry-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.124428252Z"
+    created: "2021-04-07T11:43:08.030477932Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1181,11 +1181,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.1.tgz
+    - https://phylu.github.io/charts/sentry-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-04-05T06:23:58.104884524Z"
+    created: "2021-04-07T11:43:08.008839758Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1217,11 +1217,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.0.tgz
+    - https://phylu.github.io/charts/sentry-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:58.083369093Z"
+    created: "2021-04-07T11:43:07.987909305Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1253,11 +1253,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.5.0.tgz
+    - https://phylu.github.io/charts/sentry-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:58.062980663Z"
+    created: "2021-04-07T11:43:07.966833548Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1289,11 +1289,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.4.0.tgz
+    - https://phylu.github.io/charts/sentry-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:58.042033833Z"
+    created: "2021-04-07T11:43:07.944673257Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1325,11 +1325,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.3.0.tgz
+    - https://phylu.github.io/charts/sentry-5.3.0.tgz
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:58.022533405Z"
+    created: "2021-04-07T11:43:07.923188787Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1361,11 +1361,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.3.tgz
+    - https://phylu.github.io/charts/sentry-5.2.3.tgz
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:58.001277875Z"
+    created: "2021-04-07T11:43:07.899609752Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1397,11 +1397,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.2.tgz
+    - https://phylu.github.io/charts/sentry-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:57.980846945Z"
+    created: "2021-04-07T11:43:07.87709515Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1433,11 +1433,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.1.tgz
+    - https://phylu.github.io/charts/sentry-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:57.960582916Z"
+    created: "2021-04-07T11:43:07.856134596Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1469,11 +1469,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.0.tgz
+    - https://phylu.github.io/charts/sentry-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:57.940141487Z"
+    created: "2021-04-07T11:43:07.836722191Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1505,11 +1505,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.3.tgz
+    - https://phylu.github.io/charts/sentry-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:57.918731056Z"
+    created: "2021-04-07T11:43:07.816457159Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1541,11 +1541,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.2.tgz
+    - https://phylu.github.io/charts/sentry-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
-    created: "2021-04-05T06:23:57.895020922Z"
+    created: "2021-04-07T11:43:07.796642241Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1577,11 +1577,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.1.tgz
+    - https://phylu.github.io/charts/sentry-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-04-05T06:23:57.874077292Z"
+    created: "2021-04-07T11:43:07.774591054Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1613,11 +1613,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.0.tgz
+    - https://phylu.github.io/charts/sentry-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.853427862Z"
+    created: "2021-04-07T11:43:07.753884208Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1649,11 +1649,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.1.tgz
+    - https://phylu.github.io/charts/sentry-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.835355936Z"
+    created: "2021-04-07T11:43:07.733474472Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1685,11 +1685,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.0.tgz
+    - https://phylu.github.io/charts/sentry-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-04-05T06:23:57.816040008Z"
+    created: "2021-04-07T11:43:07.713094937Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1717,11 +1717,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.1.tgz
+    - https://phylu.github.io/charts/sentry-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-04-05T06:23:57.79667718Z"
+    created: "2021-04-07T11:43:07.694333552Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1749,11 +1749,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.0.tgz
+    - https://phylu.github.io/charts/sentry-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-04-05T06:23:57.778341854Z"
+    created: "2021-04-07T11:43:07.673676708Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1781,11 +1781,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.2.tgz
+    - https://phylu.github.io/charts/sentry-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.759119026Z"
+    created: "2021-04-07T11:43:07.655350136Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1813,11 +1813,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.1.tgz
+    - https://phylu.github.io/charts/sentry-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.741275401Z"
+    created: "2021-04-07T11:43:07.638642015Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1845,11 +1845,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.0.tgz
+    - https://phylu.github.io/charts/sentry-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.724561477Z"
+    created: "2021-04-07T11:43:07.620367845Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1877,11 +1877,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.6.0.tgz
+    - https://phylu.github.io/charts/sentry-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.709558855Z"
+    created: "2021-04-07T11:43:07.601841968Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1909,11 +1909,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.1.tgz
+    - https://phylu.github.io/charts/sentry-4.5.1.tgz
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-04-05T06:23:57.688496025Z"
+    created: "2021-04-07T11:43:07.583075883Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1941,11 +1941,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.0.tgz
+    - https://phylu.github.io/charts/sentry-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2021-04-05T06:23:57.672234102Z"
+    created: "2021-04-07T11:43:07.562942855Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1973,11 +1973,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.4.0.tgz
+    - https://phylu.github.io/charts/sentry-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2021-04-05T06:23:57.654597376Z"
+    created: "2021-04-07T11:43:07.544615784Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2005,11 +2005,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.3.0.tgz
+    - https://phylu.github.io/charts/sentry-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.633678846Z"
+    created: "2021-04-07T11:43:07.526192609Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2037,11 +2037,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.2.0.tgz
+    - https://phylu.github.io/charts/sentry-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.614863919Z"
+    created: "2021-04-07T11:43:07.50762933Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2069,11 +2069,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.1.0.tgz
+    - https://phylu.github.io/charts/sentry-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.597511194Z"
+    created: "2021-04-07T11:43:07.48964897Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2101,11 +2101,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.0.0.tgz
+    - https://phylu.github.io/charts/sentry-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.580007369Z"
+    created: "2021-04-07T11:43:07.471521804Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2133,11 +2133,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.1.0.tgz
+    - https://phylu.github.io/charts/sentry-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.561613542Z"
+    created: "2021-04-07T11:43:07.45405276Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2165,11 +2165,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.1.tgz
+    - https://phylu.github.io/charts/sentry-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.544986519Z"
+    created: "2021-04-07T11:43:07.436048098Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2197,11 +2197,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.0.tgz
+    - https://phylu.github.io/charts/sentry-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.526443692Z"
+    created: "2021-04-07T11:43:07.417191511Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2229,11 +2229,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.2.0.tgz
+    - https://phylu.github.io/charts/sentry-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.510800769Z"
+    created: "2021-04-07T11:43:07.398500928Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2261,11 +2261,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.1.0.tgz
+    - https://phylu.github.io/charts/sentry-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.494493146Z"
+    created: "2021-04-07T11:43:07.381005282Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2293,11 +2293,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.1.tgz
+    - https://phylu.github.io/charts/sentry-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.477997822Z"
+    created: "2021-04-07T11:43:07.362828116Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2325,11 +2325,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.0.tgz
+    - https://phylu.github.io/charts/sentry-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.412269128Z"
+    created: "2021-04-07T11:43:07.290117548Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2357,11 +2357,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.1.tgz
+    - https://phylu.github.io/charts/sentry-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.395345803Z"
+    created: "2021-04-07T11:43:07.259912207Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2389,11 +2389,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.0.tgz
+    - https://phylu.github.io/charts/sentry-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.378278979Z"
+    created: "2021-04-07T11:43:07.239893183Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2421,11 +2421,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.2.0.tgz
+    - https://phylu.github.io/charts/sentry-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.360398553Z"
+    created: "2021-04-07T11:43:07.219976062Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2453,11 +2453,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.1.0.tgz
+    - https://phylu.github.io/charts/sentry-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.342994628Z"
+    created: "2021-04-07T11:43:07.202145206Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2485,11 +2485,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.0.0.tgz
+    - https://phylu.github.io/charts/sentry-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.311905284Z"
+    created: "2021-04-07T11:43:07.165879475Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2517,11 +2517,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.3.tgz
+    - https://phylu.github.io/charts/sentry-0.12.3.tgz
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.294208658Z"
+    created: "2021-04-07T11:43:07.148319927Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2549,11 +2549,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.2.tgz
+    - https://phylu.github.io/charts/sentry-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.278091035Z"
+    created: "2021-04-07T11:43:07.130052658Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2581,11 +2581,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.1.tgz
+    - https://phylu.github.io/charts/sentry-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.261570611Z"
+    created: "2021-04-07T11:43:07.111440277Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2613,11 +2613,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.0.tgz
+    - https://phylu.github.io/charts/sentry-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.244787787Z"
+    created: "2021-04-07T11:43:07.092984102Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2645,11 +2645,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.1.tgz
+    - https://phylu.github.io/charts/sentry-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.228525264Z"
+    created: "2021-04-07T11:43:07.073623898Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2677,11 +2677,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.0.tgz
+    - https://phylu.github.io/charts/sentry-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.209706737Z"
+    created: "2021-04-07T11:43:07.054279095Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2709,122 +2709,122 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.10.0.tgz
+    - https://phylu.github.io/charts/sentry-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.325663803Z"
+    created: "2021-04-07T11:43:07.181860573Z"
     description: A Helm chart for Kubernetes
     digest: ccf7aabac486a68779d6564d90a875b45fefa4e4a9e8f86903355cf886b6a3aa
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.4.tgz
+    - https://phylu.github.io/charts/sentry-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.324384101Z"
+    created: "2021-04-07T11:43:07.180584933Z"
     description: A Helm chart for Kubernetes
     digest: 07b380bbb341bb276b962de0b3721c9142a97e9fd084a394fc4d9f5db75bceea
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.3.tgz
+    - https://phylu.github.io/charts/sentry-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.3231194Z"
+    created: "2021-04-07T11:43:07.179291293Z"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.2.tgz
+    - https://phylu.github.io/charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.321815298Z"
+    created: "2021-04-07T11:43:07.177777446Z"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.1.tgz
+    - https://phylu.github.io/charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.320552696Z"
+    created: "2021-04-07T11:43:07.174503944Z"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.0.tgz
+    - https://phylu.github.io/charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.319382294Z"
+    created: "2021-04-07T11:43:07.173195103Z"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.8.0.tgz
+    - https://phylu.github.io/charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.318141592Z"
+    created: "2021-04-07T11:43:07.172000266Z"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.7.0.tgz
+    - https://phylu.github.io/charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.31668989Z"
+    created: "2021-04-07T11:43:07.170695625Z"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.1.tgz
+    - https://phylu.github.io/charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.315008688Z"
+    created: "2021-04-07T11:43:07.169499888Z"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.0.tgz
+    - https://phylu.github.io/charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.314022587Z"
+    created: "2021-04-07T11:43:07.168111444Z"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.5.0.tgz
+    - https://phylu.github.io/charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:57.313023385Z"
+    created: "2021-04-07T11:43:07.166905207Z"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.2.1.tgz
+    - https://phylu.github.io/charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.796444918Z"
+    created: "2021-04-07T11:43:08.809761886Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2851,11 +2851,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.4.tgz
+    - https://phylu.github.io/charts/sentry-db-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.779760894Z"
+    created: "2021-04-07T11:43:08.794256204Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2882,11 +2882,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.3.tgz
+    - https://phylu.github.io/charts/sentry-db-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.76329077Z"
+    created: "2021-04-07T11:43:08.778981529Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2913,11 +2913,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.2.tgz
+    - https://phylu.github.io/charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.746923847Z"
+    created: "2021-04-07T11:43:08.760861365Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2944,11 +2944,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.1.tgz
+    - https://phylu.github.io/charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.730903223Z"
+    created: "2021-04-07T11:43:08.744498456Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2975,11 +2975,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.0.tgz
+    - https://phylu.github.io/charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.716605103Z"
+    created: "2021-04-07T11:43:08.728554461Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3006,11 +3006,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.8.0.tgz
+    - https://phylu.github.io/charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.702426083Z"
+    created: "2021-04-07T11:43:08.712095149Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3037,11 +3037,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.7.0.tgz
+    - https://phylu.github.io/charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.688168962Z"
+    created: "2021-04-07T11:43:08.694736909Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3068,11 +3068,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.1.tgz
+    - https://phylu.github.io/charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.67296204Z"
+    created: "2021-04-07T11:43:08.677905286Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3099,11 +3099,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.0.tgz
+    - https://phylu.github.io/charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.657517618Z"
+    created: "2021-04-07T11:43:08.660727452Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3130,11 +3130,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.5.0.tgz
+    - https://phylu.github.io/charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-04-05T06:23:58.641920896Z"
+    created: "2021-04-07T11:43:08.645262471Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3161,12 +3161,12 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.2.1.tgz
+    - https://phylu.github.io/charts/sentry-db-0.2.1.tgz
     version: 0.2.1
   sentry-kubernetes:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-05T06:23:58.797305019Z"
+    created: "2021-04-07T11:43:08.810622512Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 233c575ab9e3eb3f63ee347cf32d3719b22e6546952a160cf253b32f895b5b83
     home: https://github.com/getsentry/sentry-kubernetes
@@ -3180,11 +3180,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.1.tgz
+    - https://phylu.github.io/charts/sentry-kubernetes-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-05T06:23:58.796894318Z"
+    created: "2021-04-07T11:43:08.810239601Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 727778ddeffa08ad086e07dc6014f13a905145cde1d257816df2fd52f1ec93db
     home: https://github.com/getsentry/sentry-kubernetes
@@ -3198,6 +3198,6 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.0.tgz
+    - https://phylu.github.io/charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
-generated: "2021-04-05T06:23:57.169024178Z"
+generated: "2021-04-07T11:43:07.017360644Z"
